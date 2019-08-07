@@ -1,0 +1,24 @@
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\bin\Debug\CodeSharp.exe
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\bin\Debug\CodeSharp.pdb
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmMain.resources
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.Properties.Resources.resources
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.exe
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.pdb
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\bin\Debug\CodeSharp.exe.config
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmEkle.resources
+C:\Users\fatih\Desktop\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmGüncelle.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\bin\Debug\CodeSharp.exe.config
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.exe
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.pdb
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\bin\Debug\CodeSharp.exe
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\bin\Debug\CodeSharp.pdb
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmEkle.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmGüncelle.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmMain.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.Properties.Resources.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.csproj.GenerateResource.Cache
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmShow.resources
+C:\Users\fatih\Documents\Visual Studio 2015\Projects\CodeSharp\CodeSharp\obj\Debug\CodeSharp.frmLogin.resources
